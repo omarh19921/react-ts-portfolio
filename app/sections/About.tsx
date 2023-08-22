@@ -38,8 +38,37 @@ const About = () => {
 
                         <AnimatedBody
                             delay={0.2}
-                            text="Right now, I’m working on some exciting projects that I can’t wait to share with you. But I’m always open to new opportunities and collaborations."
+                            text="Right now, I’m working on some exciting projects that I can’t wait to share with you. But I’m always open to new opportunities and collaborations. I currently own and manage an agency called Think Big Technology in the NYC area, we handle all B2B technology operations from Artificial Intelligence integrations to  data migration & IT Services to building, deploying and maintaining applications. I also work full-time as an Information Technology Asset Manager at a construction enterprise where i implement an EITM strategy that focuses on IT governance, business service management & security management."
                         />
+                        <AnimatedBody
+                            delay={0.2}
+                            text="  "
+                        />
+                        <AnimatedTitle
+                            text={"Education:"}
+                            className={
+                                "mb-10 text-left text-[40px] font-bold leading-[0.9em] tracking-tighter text-[#e4ded7] sm:text-[45px] md:mb-16 md:text-[60px] lg:text-[80px]"
+                            }
+                            wordSpace={"mr-[14px]"}
+                            charSpace={"mr-[0.001em]"}
+                        />
+                        <AnimatedBody
+                            delay={0.2}
+                            text=" - New Jersey Institute of Technology 2010-2014, Computer Engineering Major "
+                        />
+                       
+                        <AnimatedBody
+                            delay={0.2}
+                            text=" - University of London 2022, Cyber Security Fundamentals "
+                        /> <AnimatedBody
+                            delay={0.2}
+                            text=" - New Jersey Institute of Technology 2023, Cyber Security Certification "
+                        />
+                        <AnimatedBody
+                            delay={0.2}
+                            text=" - Western Governors University 2024, M.S. Information Technology Management "
+                        />
+
                     </div>
                 </div>
             </div>
