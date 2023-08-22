@@ -10,23 +10,23 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-    metadataBase: new URL("https://www.seekvisualartist.com/"),
-    title: "Seek Visual Artist",
+    metadataBase: new URL("https://omarhafez.dev"),
+    title: "Omar Hafez, Software Engineer",
     description:
     "Hobby Designer and Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
     generator: "Next.js",
-    applicationName: "Seek Visual Artist",
+    applicationName: "Omar Hafez, Software Engineer",
     keywords: [
-        "Seek Visual Artist",
-        "SeekVA",
-        "Seek Design",
-        "Seek Visuals",
-        "freelance",
+        "Software Engineer",
+        "Network Engineer",
+        "Omar Hafez",
+        "Hafez",
+        "Omar",
         "developer",
         "freelance developer",
         "frontend",
-        "nextjs",
-        "astro",
+        "nj",
+        "new jersey",
         "react",
         "frontend developer",
         "frontend engineer",
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
         "creative developer",
         "creative engineer",
         "tech",
-        "germany",
+        "bergen county",
         "software",
         "software developer",
         "portfolio",
@@ -46,17 +46,17 @@ export const metadata: Metadata = {
     ],
     colorScheme: "dark",
     openGraph: {
-        title: "Seek Visual Artist - Designer and Developer",
+        title: "Omar Hafez, Software Engineer",
         description:
       "Hobby Designer and Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
-        url: "https://www.seekvisualartist.com/",
-        siteName: "www.seekvisualartist.com",
+        url: "https://omarhafez.dev",
+        siteName: "omarhafez.dev",
         images: [
             {
                 url: "./public/metadata.jpg",
                 width: 1200,
                 height: 630,
-                alt: "Seek Visual Artist - Designer and Developer",
+                alt: "Omar Hafez, Software Engineer",
             },
         ],
         locale: "en-US",
@@ -64,9 +64,9 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "Seek Visual Artist - Designer and Developer",
+        title: "Omar Hafez, Software Engineer",
         description:
-      "Hobby Designer and Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
+      "Experienced Network Engineer and Software Engineer, currently located in North Jersey.",
         creator: "SeekVFX",
         creatorId: "0000000000",
         images: ["./public/metadata.jpg"],
