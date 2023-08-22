@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     metadataBase: new URL("https://omarhafez.dev"),
     title: "Omar Hafez, Software Engineer",
     description:
-    "Hobby Designer and Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
+    "Experienced Network Engineer and Software Engineer, currently located in North Jersey.",
     generator: "Next.js",
     applicationName: "Omar Hafez, Software Engineer",
     keywords: [
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     openGraph: {
         title: "Omar Hafez, Software Engineer",
         description:
-      "Hobby Designer and Software Engineer, currently at Neumann Kaffee Gruppe. Focused on immersive experiences, studying in Hamburg, Germany.",
+      "Experienced Network Engineer and Software Engineer, currently located in North Jersey.",
         url: "https://omarhafez.dev",
         siteName: "omarhafez.dev",
         images: [
