@@ -54,8 +54,9 @@ const About = () => {
                         />
                         <AnimatedBody
                             delay={0.2}
-                            text=" ___________________________________________________________________________ "
-                        />
+                            text="  "
+                        /> 
+                        
                         <AnimatedTitle
                             text={"Education:"}
                             className={
@@ -91,8 +92,8 @@ const About = () => {
                         />
                         <AnimatedBody
                             delay={0.2}
-                            text=" ___________________________________________________________________________ "
-                        />
+                            text="  "
+                        /> 
                         <AnimatedTitle
                             text={"Certifications:"}
                             className={
@@ -145,10 +146,7 @@ const About = () => {
                             delay={0.2}
                             text=" - IBM Full Stack Software Developer Professional Certificate "
                         />
-                        <AnimatedBody
-                            delay={0.2}
-                            text=" ___________________________________________________________________________ "
-                        />
+                        
                     </div>
                 </div>
             </div>
