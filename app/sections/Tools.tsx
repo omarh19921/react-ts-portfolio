@@ -11,7 +11,7 @@ import {
     SiHeroku,
     SiIntellijidea, SiJavascript, SiKalilinux, SiKotlin, SiLua,
     SiMongodb,
-    SiNeovim, SiNextdotjs, SiNodedotjs, SiPhp, SiPostgresql, SiPostman, SiPython, SiReact, SiRedux, SiRust, SiTailwindcss, SiTypescript, SiWebstorm, SiZig
+    SiNeovim, SiNextdotjs, SiNodedotjs, SiPhp, SiPostgresql, SiPostman, SiPython, SiReact, SiRedux, SiRust, SiTailwindcss, SiTypescript, SiVmware, SiWebstorm, SiZig
 } from "react-icons/si";
 import AnimatedTools from "../animations/AnimatedTools.tsx";
 
@@ -74,7 +74,7 @@ const Tools = () => {
                             <AnimatedTools className="grid grid-cols-5 gap-4" delay={0.4} stepSize={0.1} iconSize={50}>
                                 <SiGithub size={50}/>
                                 <SiGit size={50}/>
-                                <SiPostman size={50}/>
+                                <SiVmware size={50}/>
                                 <SiHeroku size={50}/>
                                 <SiKalilinux size={50}/>
                             </AnimatedTools>
