@@ -42,7 +42,15 @@ const About = () => {
 
                         <AnimatedBody
                             delay={0.2}
-                            text="Right now, I’m working on some exciting projects that I can’t wait to share with you. But I’m always open to new opportunities and collaborations. I currently own and manage an agency called Think Big Technology in the NYC area, we handle all B2B technology operations from Artificial Intelligence integrations to  data migration & IT Services to building, deploying and maintaining applications. I also work full-time as an Information Technology Asset Manager at a construction enterprise where I implement an EITM strategy that focuses on IT governance, business service management & security management."
+                            text="Right now, I’m working on some exciting projects that I can’t wait to share with you. But I’m always open to new opportunities and collaborations."
+                        />
+                        <AnimatedBody
+                            delay={0.2}
+                            text="I currently own and manage an agency called Think Big Technology in the NYC area, we handle all B2B technology operations ranging from {implementing Artificial Intelligence & Machine Learning models} to  {Data Migration & IT Services} to {Building, Deploying and Maintaining Web / Mobile applications}."
+                        />
+                        <AnimatedBody
+                            delay={0.2}
+                            text="I also work full-time as an Information Technology Asset Manager at a construction enterprise where I implement an EITM strategy that focuses on IT governance, business service management & security management."
                         />
                         <AnimatedBody
                             delay={0.2}
@@ -141,13 +149,6 @@ const About = () => {
                             delay={0.2}
                             text=" ___________________________________________________________________________ "
                         />
-                        <AnimatedBody
-                            delay={0.2}
-                            text=" if (employer.interest === true &&& rate.hourly >= $115){ 
-                                console.log('I'm open to work for your company!')
-                            } "
-                        />
-
                     </div>
                 </div>
             </div>
