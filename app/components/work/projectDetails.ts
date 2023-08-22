@@ -59,10 +59,10 @@ export const projects = [
         id: 2,
         name: "Poseidon",
         description:
-            "Full-Service suite of productivity/Crm applications for the construction industry. Currently implemented at my company as a trial run before full-release.",
-        technologies: [SiReact, SiNodedotjs, SiBootstrap],
-        techNames: ["React", "Node.js", "Bootstrap CSS"],
-        techLinks: ["https://react.dev/", "https://www.nodejs.org/", "https://bootstrapcss.com"],
+            "Full-Service suite of Productivity/CRM applications for the construction industry. Currently implemented at my company as a trial run before full-release.",
+        technologies: [SiReact, SiNodedotjs, SiBootstrap, SiStripe],
+        techNames: ["React", "Node.js", "Bootstrap CSS", "Stripe API"],
+        techLinks: ["https://react.dev/", "https://www.nodejs.org/", "https://bootstrapcss.com", "https://stripe.com"],
         github: "https://github.com/omarh19921",
         demo: "https://www.codewars.com/",
         image: "/projects/portfolio.webp",
@@ -72,7 +72,7 @@ export const projects = [
         id: 3,
         name: "Harry SanMartin",
         description:
-            "Website for Harry SanMartin,senate candidate in El Salvador. Using Stripe API for donations",
+            "Website for Harry San Martin, senate candidate in El Salvador. Using Stripe API for campaign donations.",
         technologies: [SiReact,SiBootstrap,SiStripe],
         techNames: ["React","Bootstrap CSS","Stripe API"],
         techLinks: ["https://www.react.dev/","https://bootstrapcss.com","https://stripe.com"],
@@ -83,7 +83,7 @@ export const projects = [
     },
     {
         id: 4,
-        name: "Filmpire - a Netflix Clone",
+        name: "Filmpire, a Netflix Clone",
         description:
             "Currently working on Filmpire, a clone of netflix using the IMDB API",
         technologies: [SiReact,SiTailwindcss,SiRedux],
