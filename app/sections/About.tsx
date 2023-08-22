@@ -26,6 +26,10 @@ const About = () => {
                     wordSpace={"mr-[14px]"}
                     charSpace={"mr-[0.001em]"}
                 />
+                <AnimatedBody
+                    delay={0.2}
+                    text="  "
+                /> 
 
                 <div className="mx-auto flex w-[100%] flex-col lg:max-w-[1200px] lg:flex-row lg:gap-20">
                     <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-medium  leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[20px] md:leading-relaxed lg:mb-16  lg:max-w-[90%] lg:text-[24px] ">
@@ -42,7 +46,7 @@ const About = () => {
                         />
                         <AnimatedBody
                             delay={0.2}
-                            text="  "
+                            text=" ___________________________________________________________________________ "
                         />
                         <AnimatedTitle
                             text={"Education:"}
@@ -60,13 +64,26 @@ const About = () => {
                         <AnimatedBody
                             delay={0.2}
                             text=" - University of London 2022, Cyber Security Fundamentals "
-                        /> <AnimatedBody
+                        /> 
+                        <AnimatedBody
+                            delay={0.2}
+                            text=" - Princeton University 2022, Computer Science - Programming with a Purpose "
+                        /> 
+                        <AnimatedBody
                             delay={0.2}
                             text=" - New Jersey Institute of Technology 2023, Cyber Security Certification "
                         />
                         <AnimatedBody
                             delay={0.2}
+                            text=" - Thinkful (Chegg) 2023, Software Engineering Immersion "
+                        />
+                        <AnimatedBody
+                            delay={0.2}
                             text=" - Western Governors University 2024, M.S. Information Technology Management "
+                        />
+                        <AnimatedBody
+                            delay={0.2}
+                            text=" ___________________________________________________________________________ "
                         />
                         <AnimatedTitle
                             text={"Certifications:"}
@@ -111,6 +128,14 @@ const About = () => {
                         <AnimatedBody
                             delay={0.2}
                             text=" - Linux Professional Institute LPI Linux Essentials "
+                        />
+                        <AnimatedBody
+                            delay={0.2}
+                            text=" - IBM DevOps and Software Engineering Professional Certificate "
+                        />
+                        <AnimatedBody
+                            delay={0.2}
+                            text=" - IBM Full Stack Software Developer Professional Certificate "
                         />
 
                     </div>
