@@ -88,6 +88,30 @@ const About = () => {
                             delay={0.2}
                             text=" - CompTIA Security+ "
                         />
+                        <AnimatedBody
+                            delay={0.2}
+                            text=" - CompTIA IT Operations Specialist "
+                        />
+                        <AnimatedBody
+                            delay={0.2}
+                            text=" - CompTIA Secure Infrastructure Specialist "
+                        />
+                        <AnimatedBody
+                            delay={0.2}
+                            text=" - Amazon AWS Cloud Practitioner "
+                        />
+                        <AnimatedBody
+                            delay={0.2}
+                            text=" - Axelos Global Best Practice, ITIL®*^ Foundation Certification "
+                        />
+                        <AnimatedBody
+                            delay={0.2}
+                            text=" - Project Management Institute PMI CAPM "
+                        />
+                        <AnimatedBody
+                            delay={0.2}
+                            text=" - Linux Professional Institute LPI Linux Essentials "
+                        />
 
                     </div>
                 </div>
