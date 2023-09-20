@@ -63,10 +63,10 @@ export const projects = [
         technologies: [SiReact, SiNodedotjs, SiBootstrap, SiStripe],
         techNames: ["React", "Node.js", "Bootstrap CSS", "Stripe API"],
         techLinks: ["https://react.dev/", "https://www.nodejs.org/", "https://bootstrapcss.com", "https://stripe.com"],
-        github: "https://github.com/omarh19921",
-        demo: "https://www.codewars.com/",
+        github: "https://github.com/Think-Big-Technology/Poseidon-Admin",
+        demo: "http://www.poseidon-fire.com/admin",
         image: "/projects/portfolio.webp",
-        available: false,
+        available: true,
     },
     {
         id: 3,
