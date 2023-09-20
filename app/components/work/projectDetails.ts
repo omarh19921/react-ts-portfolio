@@ -76,10 +76,10 @@ export const projects = [
         technologies: [SiReact,SiBootstrap,SiStripe],
         techNames: ["React","Bootstrap CSS","Stripe API"],
         techLinks: ["https://www.react.dev/","https://bootstrapcss.com","https://stripe.com"],
-        github: "https://github.com/omarh19921/",
-        demo: "https://github.com/nuIIpointerexception/",
+        github: "https://github.com/Think-Big-Technology/Harry-Sanmartin-Campaign",
+        demo: "https:/www.harrysanmartin.com/",
         image: "/projects/construction.webp",
-        available: false,
+        available: true,
     },
     {
         id: 4,
