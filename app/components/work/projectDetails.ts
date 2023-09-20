@@ -50,10 +50,10 @@ export const projects = [
         technologies: [SiReact,SiTailwindcss,SiNextdotjs],
         techNames: ["React","Tailwind CSS","Next.js"],
         techLinks: ["https://www.react.dev/","https://tailwindcss.com","https://nextjs.org"],
-        github: "https://github.com/omarh19921/",
-        demo: "https://github.com/nuIIpointerexception/",
+        github: "https://github.com/Think-Big-Technology/TBT",
+        demo: "https://www.thinkbigtechnology.com",
         image: "/projects/construction.webp",
-        available: false,
+        available: true,
     },
     {
         id: 2,
