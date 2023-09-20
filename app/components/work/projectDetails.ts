@@ -37,10 +37,10 @@ export const projects = [
         technologies: [SiTypescript, SiReact, SiNextdotjs, SiTailwindcss, SiFramer],
         techNames: ["TypeScript", "React", "Next.js", "Tailwind CSS", "Framer Motion"],
         techLinks: ["https://www.typescriptlang.org/", "https://reactjs.org/", "https://nextjs.org/", "https://tailwindcss.com/", "https://www.framer.com/motion/"],
-        github: "https://github.com/omarh19921",
-        demo: "https://www.seekvisualartist.com/",
+        github: "https://github.com/omarh19921/react-ts-portfolio",
+        demo: "https://www.omarcodesnj.com/",
         image: "/projects/portfolio.webp",
-        available: false,
+        available: true,
     },
     {
         id: 1,
