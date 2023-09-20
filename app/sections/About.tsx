@@ -31,7 +31,7 @@ const About = () => {
                     text="  "
                 /> 
 
-                <div className="mx-auto flex w-[100%] flex-col lg:max-w-[1200px] lg:flex-row lg:gap-20">
+                <div className="mx-auto flex w-[100%] flex-col lg:max-w-[1200px] lg:flex-row lg:gap-20" style={{ textAlign: 'justify' }}>
                     <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-medium  leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[20px] md:leading-relaxed lg:mb-16  lg:max-w-[90%] lg:text-[24px] ">
                         <AnimatedBody text="My passion lies in creating technology solutions that are both beautiful and functional. I’ve been a network engineer since 2012 and later transitioned into software development." />
 
@@ -82,10 +82,7 @@ const About = () => {
                             delay={0.2}
                             text=" - New Jersey Institute of Technology 2023, Cyber Security Certification "
                         />
-                        <AnimatedBody
-                            delay={0.2}
-                            text=" - Thinkful (Chegg) 2023, Software Engineering Immersion "
-                        />
+                        
                         <AnimatedBody
                             delay={0.2}
                             text=" - Western Governors University 2024, M.S. Information Technology Management "
