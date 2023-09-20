@@ -77,7 +77,7 @@ export const projects = [
         techNames: ["React","Bootstrap CSS","Stripe API"],
         techLinks: ["https://www.react.dev/","https://bootstrapcss.com","https://stripe.com"],
         github: "https://github.com/Think-Big-Technology/Harry-Sanmartin-Campaign",
-        demo: "https:/www.harrysanmartin.com/",
+        demo: "https://www.harrysanmartin.com/",
         image: "/projects/construction.webp",
         available: true,
     },
