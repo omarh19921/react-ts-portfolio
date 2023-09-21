@@ -40,7 +40,7 @@ export const projects = [
         github: "https://github.com/omarh19921/react-ts-portfolio",
         demo: "https://www.omarcodesnj.com/",
         image: "/projects/portfolio.webp",
-        available: true,
+        available: false,
     },
     {
         id: 1,
