@@ -50,11 +50,11 @@ const About = () => {
                         />
                             <AnimatedBody
                               delay={0.2}
-                              text="Thanks to my experience working for large firms such as former Wall Street giant, Deutsche Bank, and media giant, Newscorp (Wall Street Journal), I have gained massive insight into the processes implemented by global giants."
+                              text="Thanks to my experience working for large firms such as financial juggernaut, Deutsche Bank, and media giant, Newscorp (Wall Street Journal), I have gained massive insight into the processes implemented by global giants."
                           />
                         <AnimatedBody
                             delay={0.2}
-                            text="I also currently work full-time as an Information Technology Asset Manager at a construction enterprise where I implement an EITM strategy that focuses on IT governance, business service management & security management."
+                            text="I currently work full-time as an Information Technology Asset Manager at a construction enterprise where I implement an EITM strategy that focuses on IT governance, business service management & security management."
                         />
                         <AnimatedBody
                             delay={0.2}
