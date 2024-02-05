@@ -11,7 +11,7 @@ const syne = Syne({
 
 export const metadata: Metadata = {
     metadataBase: new URL("https://omarhafez.dev"),
-    title: "Omar Hafez, Software Engineer",
+    title: "Omar H, Software Engineer",
     description:
     "Experienced Network Engineer and Software Engineer, currently located in North Jersey.",
     generator: "Next.js",
