@@ -48,9 +48,13 @@ const About = () => {
                             delay={0.2}
                             text="I currently own and manage an agency called Think Big Technology in the NYC area, we handle all B2B technology operations ranging from {implementing Artificial Intelligence & Machine Learning models} to  {Data Migration & IT Services} to {Building, Deploying and Maintaining Web / Mobile applications}."
                         />
+                            <AnimatedBody
+                              delay={0.2}
+                              text="Thanks to my experience working for large firms such as former Wall Street giant, Deutsche Bank, and media giant, Newscorp (Wall Street Journal), I have gained massive insight into the processes implemented by global giants."
+                          />
                         <AnimatedBody
                             delay={0.2}
-                            text="I also work full-time as an Information Technology Asset Manager at a construction enterprise where I implement an EITM strategy that focuses on IT governance, business service management & security management."
+                            text="I also currently work full-time as an Information Technology Asset Manager at a construction enterprise where I implement an EITM strategy that focuses on IT governance, business service management & security management."
                         />
                         <AnimatedBody
                             delay={0.2}
