@@ -2,7 +2,7 @@ import {
     SiBootstrap,
     SiCplusplus,
     SiFramer,
-    SiGithub, SiNeovim,
+    SiGithub, SiJavascript, SiNeovim,
     SiNextdotjs,
     SiNodedotjs,
     SiReact,
@@ -44,6 +44,19 @@ export const projects = [
     },
     {
         id: 1,
+        name: "Broadway Supercars",
+        description:
+            "Website for Broadway Supercars, the leading exotic and luxury car rental company.",
+        technologies: [SiReact,SiTailwindcss,SiJavascript],
+        techNames: ["React","Tailwind CSS","JavaScript"],
+        techLinks: ["https://www.react.dev/","https://tailwindcss.com","https://nextjs.org"],
+        github: "https://github.com/Think-Big-Technology/Broadway-Supercars",
+        demo: "https://www.broadwaysupercars.com",
+        image: "/projects/construction.webp",
+        available: true,
+    },
+    {
+        id: 2,
         name: "Think Big Technology",
         description:
             "Website for the agency i own and manage. Find more exciting projects there!",
@@ -56,7 +69,7 @@ export const projects = [
         available: true,
     },
     {
-        id: 2,
+        id: 3,
         name: "Poseidon",
         description:
             "Full-Service suite of Productivity/CRM applications for the construction industry. Currently implemented at my company as a trial run before full-release.",
@@ -69,7 +82,7 @@ export const projects = [
         available: true,
     },
     {
-        id: 3,
+        id: 4,
         name: "Harry SanMartin",
         description:
             "Website for Harry San Martin, senate candidate in El Salvador. Using Stripe API for campaign donations.",
@@ -82,7 +95,7 @@ export const projects = [
         available: true,
     },
     {
-        id: 4,
+        id: 5,
         name: "Filmpire, a Netflix Clone",
         description:
             "Currently working on Filmpire, a clone of netflix using the IMDB API",
